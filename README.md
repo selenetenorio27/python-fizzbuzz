@@ -1,4 +1,4 @@
-# Python FizzBuzz: Selene Tenorio
+# Python FizzBuzz: Selene Tenorio Cruz
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
